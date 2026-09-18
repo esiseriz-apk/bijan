@@ -1,6 +1,0 @@
-{
-  "name": "Gapoo",
-  "description": "اپلیکیشن اجتماعی جمع‌محور و کشف رویداد Gapoo با نبض فوری، گروه‌های علاقه‌مندی و امنیت بالا",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
